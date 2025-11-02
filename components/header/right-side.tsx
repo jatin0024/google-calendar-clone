@@ -30,7 +30,7 @@ export default function HeaderRight() {
     </Select>
 
     <Avatar>
-      <AvatarImage src="/img/inst2.png" />
+      <AvatarImage src="/img/jatin.png" />
       <AvatarFallback>CN</AvatarFallback>
     </Avatar>
   </div>
